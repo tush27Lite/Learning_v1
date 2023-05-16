@@ -1,0 +1,3 @@
+keep all value fix;
+error color red;
+result page
